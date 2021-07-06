@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+}
+
+.bg{
+    height: 100vh;
+    width: 200vh;
+    background-color: grey;
+}
+
+.two{
+   color: aquamarine;
+   background-color: chartreuse;
+   font-size: xx-large;
+   font-style: italic;
+
+}
