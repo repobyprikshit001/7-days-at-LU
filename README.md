@@ -1,2 +1,2 @@
 # 7-days-at-LU
- Alll work that I did at LU
+ All the work that I did at LU
